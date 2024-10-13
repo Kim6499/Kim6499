@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kim6499
+- 👋 Hi, I’m @Kimutai
 - 👀 I’m interested in learning about software engineering.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate with colleagues in creating projects that help in the outside world
